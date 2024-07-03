@@ -1,4 +1,4 @@
-# Valentina Osepashvili
+# Valentina Asepashvili
 
 ## Contact information
 
@@ -10,7 +10,7 @@
 
    Programming is a hobby for me, it is interesting and exciting. I have several small projects, but I want to deepen my knowledge and gain practical experience.
 
-## Skils
+## Skills
 
 - HTML, CSS
 - Figma, Photoshop
